@@ -1,0 +1,32 @@
+section{
+  height: 600px;
+  /* background-color: lightblue; */
+  background-image: url("../world.jpg");
+  background-size: cover;
+  width: 50%;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  padding-top: 25px;
+}
+h2{
+  margin-top: 10px;
+  color: white;
+  margin-left: 18%;
+}
+
+form{
+  margin-left: 27%;
+}
+
+button{
+  background-color: green;
+  font-weight: 400;
+}
+
+li{
+  color: white;
+}
